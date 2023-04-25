@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Timea Demeterova # Name of the creator
+logo: "/images/logo.png?raw=true" # Photo or logo of creator
+description: > # Description of creator; including linkedin Profile 
+  This site is currently under constructions :) 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="/pdf/CV_TimeaDemeterova.pdf">View My Resume</a> 
+  <a href="https://www.linkedin.com/in/timea-demeterova-220717/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
