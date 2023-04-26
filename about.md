@@ -6,3 +6,4 @@ assurance of training data used in autonomous driving systems.
 I'm creative, highly motivated and skilled in analysing and visualising various datasets. 
 I work well both independently and as part of an international team. 
 
+---

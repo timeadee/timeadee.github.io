@@ -1,5 +1,6 @@
 <h2>My Projects</h2>
-
+<br>
+<br>
 <details>
     <summary>Projects Type 1</summary>
     Coming soon...
