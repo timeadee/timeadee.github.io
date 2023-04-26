@@ -1,15 +1,17 @@
-## My Projects
+<h2>My Projects</h2>
 
 <details>
-    <summary><h2>Projects Type 1</h2></summary>
+    <h3><summary>Projects Type 1</summary></h3>
     Coming soon...
+    <br>
 </details>
 
 ---
 
 <details>
-    <summary><h2>Projects Type 2</h2></summary>
+    <h3><summary>Projects Type 2</summary></h3>
     Coming soon...
+    <br>
 </details>
 
 ---
