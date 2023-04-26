@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+    background-color: #fff;
+    padding:50px;
+    font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#727272;
+    font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#222;
+    margin:0 0 20px;
+}
+
+h1 {
+    font-family: 'Lora';
+    font-size:28px;
+}
+  
+h2 {
+    font-family: 'Lora';
+    color:#393939;
+}
+
+h3 {
+    font-weight:700;
+}
+  
+h3, h4, h5, h6 {
+    font-family: 'Open Sans';
+    color:#494949;
+}
+  
+a {
+    color:#2B9F9F;
+    text-decoration:none;
+}
+  
+a:hover, a:focus {
+    color:#228080;
+    font-weight: bold;
+}
+
+
+
