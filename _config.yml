@@ -1,15 +1,6 @@
-title: Timea Demeterova # Name of the creator
+title: Timea Demeterova # Name of the creator; not used.
 logo: "/images/logo.png?raw=true" # Photo or logo of creator
-description: > # Description of creator; including linkedin Profile 
-  <br>
-  IT Graduate 
-  <br>
-  <a href="https://timeadee.github.io/">My Projects</a> 
-  <br>
-  <a href="/about">About Me</a> 
-  <br>
-  <a href="https://www.linkedin.com/in/timea-demeterova-220717/">LinkedIn Profile</a> 
-  
+description: > # Description of creator; not used.  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
