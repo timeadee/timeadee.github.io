@@ -2,8 +2,8 @@
 ---
 
 body {
-    background-color:#E4EEF1;
-    background: linear-gradient(#F9F2E8, #E4EEF1) fixed;
+    background-color:#D5E4E9;
+    background: linear-gradient(#F9F2E8, #D5E4E9) fixed;
     padding:50px;
     font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color:#222222;
@@ -17,13 +17,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .name {
     font-family:'Lora';
-    font-size:32px;
+    font-size:36px;
     font-weight:300;
     color:black;
 }
   
 h2 {
     font-family:'Lora';
+    font-size: 28px;
     font-weight: 400;
     color:#393939;
 }
@@ -35,7 +36,7 @@ h3, h4, h5, h6 {
 
 summary, .menu {
     font-weight:700;
-    font-size: 16px;
+    font-size: 18px;
     color:#393939;
     line-height: 12px;
 }
