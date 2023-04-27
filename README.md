@@ -1,6 +1,6 @@
 ## My analysis projects portfolio with custom css
 
-This site is my analyst portfolio, that I've based on the [quick-portfolio](https://github.com/evanca/quick-portfolio) provided by @evanca; which was a modified version of the [Minimal](https://github.com/pages-themes/minimal) Jekyll theme for GitHub Pages.
+This site is my analyst portfolio, that I've based on the [quick-portfolio](https://github.com/evanca/quick-portfolio) provided by @evanca; which is a modified version of the [Minimal](https://github.com/pages-themes/minimal) Jekyll theme for GitHub Pages.
 It includes custom css and a slightly modified landing page layout with a very basic menu.
 ___
 
